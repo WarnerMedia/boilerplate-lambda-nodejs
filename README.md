@@ -1,6 +1,13 @@
-# AWS Summit Atlanta 2022 Demo
+# Node.js Lambda Boilerplate
 
-This repository provides a demonstration of using a trunk-based deployment flow to deploy a Lambda with a REST API Gateway using CodePipeline and CloudFormation.
+This repository provides boilerplate for deploying a simple Node.js application to AWS Lambda.
+
+---
+**NOTE**
+
+This repository should never be used directly, the "Use this template" button should always be utilized to create fork of this repository.
+
+---
 
 ## Table of Contents
 

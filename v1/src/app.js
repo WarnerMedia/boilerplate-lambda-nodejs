@@ -34,7 +34,6 @@ exports.handler = (event, context, callback) => {
            '</head>\n<body>\n' +
            '<h1>' + APPLICATION_TITLE + '</h1>\n' +
            '<div id="content"><p>The API Gateway homepage path for the "' + ENVIRONMENT + '" environment.  The "max-age" is set to "' + MAX_AGE + '" seconds.</p></div>\n' +
-           '<div id="content"><p>The demo is live.</p></div>\n' +
            '</body>\n</html>';
 
   }
@@ -63,7 +62,6 @@ exports.handler = (event, context, callback) => {
            '</head>\n<body>\n' +
            '<h1>' + APPLICATION_TITLE + '</h1>\n' +
            '<div id="content"><p>The Lambda Node.js boilerplate function is active in the "' + ENVIRONMENT + '" environment.  The "max-age" is set to "' + MAX_AGE + '" seconds.</p></div>\n' +
-           '<div id="content"><p>The demo is live.</p></div>\n' +
            '</body>\n</html>';
 
   }

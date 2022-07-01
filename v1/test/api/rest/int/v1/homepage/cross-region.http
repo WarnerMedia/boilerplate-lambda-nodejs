@@ -1,2 +1,2 @@
-GET https://api-aws-summit-demo.int.nonprod.example.com/v1/homepage HTTP/1.1
+GET https://api-boilerplate-lambda-nodejs.int.nonprod.example.com/v1/homepage HTTP/1.1
 content-type: text/html

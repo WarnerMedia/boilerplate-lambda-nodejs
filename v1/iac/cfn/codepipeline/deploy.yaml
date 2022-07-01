@@ -166,7 +166,7 @@ Parameters:
   Subdomain:
     Type: "String"
     Description: "What is the base name for the DNS entry? The environment will automatically be added to the end."
-    Default: "aws-summit-demo"
+    Default: "boilerplate-lambda-nodejs"
   HealthCheckPath:
     Type: "String"
     Description: "What is the path of the health check?"
