@@ -1,5 +1,5 @@
 {
-  "name": "aws-summit-atlanta-2022-demo",
+  "name": "boilerplate-lambda-nodejs",
   "version": "1.0.0",
   "description": "Lambda CodePipeline trunk-based deployment flow.",
   "main": "./src/app.js",
